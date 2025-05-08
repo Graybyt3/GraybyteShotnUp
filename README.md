@@ -118,7 +118,7 @@ You need keys for Imgur and Gyazo to upload screenshots. Here’s how to get the
 * Install `xclip` (Linux):
 
 
-# 👨🏻‍💻 FOR MORE INFORMATION AND SUPPORT 👨🏻‍💻
+# 📨 FOR MORE INFORMATION AND SUPPORT . ₊˚ ☎︎₊˚✧ ﾟ.
 
 [TELEGRAM](https://t.me/rex_cc) | 
 [FACEBOOK](https://www.facebook.com/graybyt3) | 
