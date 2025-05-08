@@ -106,6 +106,37 @@ You need keys for Imgur and Gyazo to upload screenshots. Here’s how to get the
 * **Your Choice**: Turn on/off either API.
 * **Fast**: Shows how quick the upload is.
 
+
+## 🔛 Autostart Setup
+
+To make **GraybyteShotnUp** start automatically when your computer boots:
+
+1. **Create a File**:
+* Open a text editor (like `nano` or `gedit`).
+* Copy this text:
+
+[Desktop Entry]
+Type=Application
+Name=GraybyteShotnUp
+Exec=python3 /full/path/to/GraybyteShotnUp/graybyte_shotnup.py
+Hidden=false
+NoDisplay=true
+X-GNOME-Autostart-Delay=20
+
+* Replace `/full/path/to/GraybyteShotnUp/graybyte_shotnup.py` with the actual path to your script. For example, if the script is in `/home/yourusername/GraybyteShotnUp`, use:
+
+* Exec=python3 /home/yourusername/GraybyteShotnUp/graybyte_shotnup.py
+
+* Save the file as `graybyte_shotnup.desktop` in `~/.config/autostart/`
+* 
+2. **Make It Work**:
+* Run this command to allow the file to run:
+* chmod +x ~/.config/autostart/graybyte_shotnup.desktop
+
+3. **Test It**:
+* Restart your computer. The tool should start automatically after a 20-second delay.
+
+
 ## 🚨 Troubleshooting
 
 * **"scrot not installed"**:
