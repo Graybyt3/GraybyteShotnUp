@@ -2,6 +2,8 @@
 
 **GraybyteShotnUp** is an easy-to-use tool for taking screenshots, drawing on them, and uploading them online. It works on Linux and uses **two APIs**—**Imgur** and **Gyazo**—to make sure your uploads always work. If one API is blocked or down, the other takes over.
 
+![Preview](./preview-window.png)
+
 ## 🔥 Features
 
 * **Two APIs for Reliability**:
