@@ -96,6 +96,8 @@ You need keys for Imgur and Gyazo to upload screenshots. Here’s how to get the
 * The link is copied to your clipboard.
 * Click **"Open URL"** to see the image online.
 
+![Preview](./notificaion-window.png)
+
 4. **Save It**:
 * Click **"Save"** to save the screenshot and open it.
 
